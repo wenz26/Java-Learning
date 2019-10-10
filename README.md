@@ -1,7 +1,6 @@
-# Java-Learning
-个人的Java学习笔记 （转载）
-
-
+# Java-Learning（转载） 
+原处：https://github.com/Snailclimb/JavaGuide/edit/master/docs/java/Java%E5%9F%BA%E7%A1%80%E7%9F%A5%E8%AF%86.md
+个人的Java学习笔记 
 
 - [1. 面向对象和面向过程的区别](#1-面向对象和面向过程的区别)
     - [面向过程](#面向过程)
